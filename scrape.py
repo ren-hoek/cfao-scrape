@@ -2,7 +2,12 @@ import cfao as cf
 
 
 def scrape_cfao():
-    """Scrape fire enforcement notices."""
+    """Scrape fire enforcement notices.
+
+    Scrape results from http://www.cfoa.org.uk/11823
+    Set the search parameters by changing the values in
+    the search dictionary.
+    """
 
     ### Input ###
 
