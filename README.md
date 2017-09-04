@@ -1,4 +1,4 @@
-# cfao-scape
+# cfao-scrape
 
 Python module to scrape the result from enforcement searches made
  on the Chief Fire Officers Association website http://www.cfoa.org.uk
